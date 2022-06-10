@@ -118,10 +118,11 @@ main img{
 }
 
 .imgCon img {
-    min-height: 35vh;
-    max-width: 90%;
+    border-radius: 10px;
+    max-width: 85%;
     display: block;
     margin: 15px auto;
+    min-height: 32vh;
 }
 h2,h3{
     font-size: 2.5rem;
@@ -304,7 +305,6 @@ h3{
         min-width: 17vw;
         max-width: 25vw;
         margin: 0 0.5rem;
-        max-height: 10vh;
     }
     .imgContainer h2{
         margin: 2rem  1rem;
